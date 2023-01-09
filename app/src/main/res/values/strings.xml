@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicPlayerExample</string>
+    <string name="previous_song">previous song</string>
+    <string name="rewind">rewind</string>
+    <string name="play_or_pause">play or pause</string>
+    <string name="fast_forward">fast forward</string>
+    <string name="next_song">next song</string>
+</resources>
